@@ -1,0 +1,13 @@
+# General
+.ugly-tasks.json
+
+# Python
+__pycache__/
+dist/
+*.egg-info/
+
+# idea
+.idea
+
+# macos
+DS_Store
